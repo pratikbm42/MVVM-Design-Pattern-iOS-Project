@@ -14,8 +14,6 @@ Data Binding -->  Learn how to connect and synchronize your data between the Vie
 
 Singleton Design Pattern -->  Implement and appreciate the Singleton design pattern for managing shared resources.
 
-URLSession -->  Make generic API calls and network requests, with a focus on API interaction.
-
 Decodable Protocol -->  Decode and work with JSON data effectively using the Decodable protocol and JSONDecoder.
 
 Downloading Images -->  Explore image download and display with the Kingfisher library.
